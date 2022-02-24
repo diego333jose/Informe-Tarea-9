@@ -40,7 +40,9 @@ CAPITULO 17: Circuitos RLC y resonancia
 
 Marco Teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/Diagrama%20en%20blanco%20(8).png)
+
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/Diagrama%20en%20blanco%20(9).png)
 
 Ejercicios:
 
