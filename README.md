@@ -64,7 +64,7 @@ CAPITULO 18: Filtros pasivos
 
 Marco Teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/Mapa%2018_page-0001.jpg)
 
 Ejercicios:
 
