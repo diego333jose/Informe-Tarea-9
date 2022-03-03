@@ -46,19 +46,21 @@ Marco Teorico:
 
 Ejercicios:
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0001.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0001.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0002.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0002.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0003.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0003.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0004.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0004.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0005.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0005.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0006.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0006.jpg)
 
-![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209_page-0007.jpg)
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0007.jpg)
+
+![](https://github.com/diego333jose/Informe-Tarea-9/blob/main/Imagenes/DEBER%209.01_page-0008.jpg)
 
 CAPITULO 18: Filtros pasivos
 
